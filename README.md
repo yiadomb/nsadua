@@ -24,6 +24,15 @@ This project is being built with coaching guidance. You're doing the building, I
 - `code-templates/` - Reusable code snippets
 - `guides/` - Technical guides
 - `archive/` - Archived original PRD (with live preview)
+- `wordpress-connection/` - Tools to connect to WordPress.com and track progress
+
+## 🔌 WordPress Connection
+
+Want me to understand your current site state? Set up API access:
+
+1. See **[wordpress-connection/README.md](wordpress-connection/README.md)** for setup instructions
+2. Configure API credentials to connect to your WordPress.com site
+3. I can then track progress, understand context, and provide specific help based on what's actually built
 
 ## 🚀 Getting Started
 

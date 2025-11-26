@@ -1,0 +1,20 @@
+{
+  "wordpress": {
+    "site_url": "https://your-site.wordpress.com",
+    "api_url": "https://your-site.wordpress.com/wp-json/wp/v2",
+    "application_password": {
+      "username": "your-username",
+      "password": "your-application-password"
+    },
+    "note": "Create an Application Password in WordPress.com: Users > Profile > Application Passwords"
+  },
+  "woocommerce": {
+    "api_url": "https://your-site.wordpress.com/wp-json/wc/v3",
+    "consumer_key": "ck_your_consumer_key",
+    "consumer_secret": "cs_your_consumer_secret",
+    "note": "Generate in WooCommerce > Settings > Advanced > REST API"
+  },
+  "elementor": {
+    "note": "Elementor data is stored in post meta and accessible via WordPress REST API. No separate API needed."
+  }
+}
