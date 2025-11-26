@@ -1,0 +1,5 @@
+# WordPress Connection Config (contains sensitive credentials)
+config.json
+
+# Site state cache (optional - can be committed if you want)
+site_state.json
